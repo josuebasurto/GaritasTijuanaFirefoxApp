@@ -1,0 +1,17 @@
+{
+  "version": "0.1",
+  "name": "Garitas Tj",
+  "description": "Garitas Tj - Web App",
+  "launch_path": "/",
+  "icons": {
+    "16": "/16.png",
+    "48": "/48.png",
+    "128": "/128.png"
+  },
+  "fullscreen": "true",
+  "developer": {
+    "name": "Josue Basurto",
+    "url": "http://josuebasurto.com"
+  },
+  "default_locale": "es"
+}
